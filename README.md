@@ -4,6 +4,13 @@ PlantDEX is a revolutionary mobile application designed to empower farmers and a
 
 Our mission at PlantDEX is to support farmers in safeguarding their crops and ensuring bountiful harvests. By providing a user-friendly platform for disease identification and treatment recommendations, we aim to enhance agricultural productivity and contribute to global food security.
 
+# DEMO
+
+![ezgif com-animated-gif-maker](https://github.com/het03/plantDEX/assets/103428174/b45bdc01-513a-4584-96eb-5eaf54aba895)
+
+
+See [full demo](https://m.youtube.com/watch?v=fjGup9h1dNw)
+
 ## TECHNOLOGIES USED
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
